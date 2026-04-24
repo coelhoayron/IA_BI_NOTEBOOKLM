@@ -25,6 +25,12 @@ Engenharia de prompts: Envolve a criação de instruções estratégicas para gu
   
 **PROMPT_1:** Com base em todas as fontes carregadas, gere um resumo executivo sobre como a IA Generativa pode melhorar o processo de BI em empresas de médio e grande porte? Priorize tendências, riscos e impactos.
 
+**FONTES UTILIZADAS NA RESPOSTA:**
+- Estratégias de Integração de Inteligência Artificial em Business Intelligence para a Geração de Insights Executivos e Transformação Organizacional (Documento principal em Markdown nas fontes).
+- Tableau Pulse vs Power BI Copilot vs Looker/Looker Studio (Gemini) – A Complete Guide for Marketing Leaders in 2026 - https://genesysgrowth.com/blog/tableau-pulse-vs-power-bi-copilot-vs-looker-looker-studio-(gemini).
+- Explainable AI (XAI) in 2025: How to Trust AI in 2025 - https://blog.bismart.com/en/explainable-ai-business-trust.
+- Five Key Elements of Gen-BI - https://www.youtube.com/watch?v=0_uFz2i_7i4.
+
 **RESPOSTA:** Este resumo executivo detalha como a Inteligência Artificial Generativa (GenAI) está transformando o Business Intelligence (BI) em organizações de médio e grande porte, evoluindo de sistemas de relatórios retrospectivos para motores de decisão proativos e preditivos.
 
 1. Tendências Emergentes para 2025-2026
