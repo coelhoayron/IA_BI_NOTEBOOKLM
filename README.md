@@ -23,7 +23,7 @@ A curadoria de fontes é essencial para alimentar o NotebookLM com conteúdo rel
 
 - Engenharia de prompts: Envolve a criação de instruções estratégicas para guiar a IA em tarefas específicas, resultando em respostas mais precisas e relevantes. No contexto deste projeto, prompts estratégicos são aqueles projetados para extrair insights executivos de fontes curadas, como solicitações para resumir tendências ou identificar oportunidades de negócio. A seguir, estão listados os principais prompts utilizados:
   
-**PROMPT:** Com base em todas as fontes carregadas, gere um resumo executivo sobre como a IA Generativa pode melhorar o processo de BI em empresas de médio e grande porte? Priorize tendências, riscos e impactos.
+**PROMPT_1:** Com base em todas as fontes carregadas, gere um resumo executivo sobre como a IA Generativa pode melhorar o processo de BI em empresas de médio e grande porte? Priorize tendências, riscos e impactos.
 
 **RESPOSTA:** Este resumo executivo detalha como a Inteligência Artificial Generativa (GenAI) está transformando o Business Intelligence (BI) em organizações de médio e grande porte, evoluindo de sistemas de relatórios retrospectivos para motores de decisão proativos e preditivos.
 
@@ -56,7 +56,8 @@ Para maximizar o retorno e mitigar riscos, a implementação deve seguir estes p
 
 Conclusão: Em 2026, a vantagem competitiva não pertencerá às empresas que apenas adotarem a IA, mas às que a institucionalizarem com governança sólida, dados limpos e uma força de trabalho letrada em IA.
 
-**PROMPT:** Ótimo! Agora liste de forma objetiva e estruturada os principais ganhos operacionais e estratégicos ao integrara IA generativa ao ciclo de BI. Considere como ciclo de BI a seguinte sequência de etapas: coleta de dados, ETL, aplicação de regras de negócio, análise, insight e decisão. Além disso, classifique essa lista por ordem de impacto.
+**PROMPT_2:** Ótimo! Agora liste de forma objetiva e estruturada os principais ganhos operacionais e estratégicos ao integrara IA generativa ao ciclo de BI. Considere como ciclo de BI a seguinte sequência de etapas: coleta de dados, ETL, aplicação de regras de negócio, análise, insight e decisão. Além disso, classifique essa lista por ordem de impacto.
+
 **RESPOSTA:** Com base nas fontes fornecidas, a integração da IA Generativa (GenAI) no ciclo de Business Intelligence (BI) transforma o processo de uma função retrospectiva em um motor de decisão proativo. Abaixo, os ganhos estão listados e estruturados pelas etapas do ciclo de BI, classificados por ordem de impacto (do estratégico ao operacional):
 
 1. Tomada de Decisão (Impacto Estratégico Máximo): Esta é a etapa de maior valor, onde a IA atua como um "copiloto" para executivos.
