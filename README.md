@@ -55,8 +55,8 @@ Para maximizar o retorno e mitigar riscos, a implementação deve seguir estes p
 
 Conclusão: Em 2026, a vantagem competitiva não pertencerá às empresas que apenas adotarem a IA, mas às que a institucionalizarem com governança sólida, dados limpos e uma força de trabalho letrada em IA.
 
-**Prompt:** Ótimo! Agora liste de forma objetiva e estruturada os principais ganhos operacionais e estratégicos ao integrara IA generativa ao ciclo de BI. Considere como ciclo de BI a seguinte sequência de etapas: coleta de dados, ETL, aplicação de regras de negócio, análise, insight e decisão. Além disso, classifique essa lista por ordem de impacto.
-**Resposta:** Com base nas fontes fornecidas, a integração da IA Generativa (GenAI) no ciclo de Business Intelligence (BI) transforma o processo de uma função retrospectiva em um motor de decisão proativo. Abaixo, os ganhos estão listados e estruturados pelas etapas do ciclo de BI, classificados por ordem de impacto (do estratégico ao operacional):
+**PROMPT:** Ótimo! Agora liste de forma objetiva e estruturada os principais ganhos operacionais e estratégicos ao integrara IA generativa ao ciclo de BI. Considere como ciclo de BI a seguinte sequência de etapas: coleta de dados, ETL, aplicação de regras de negócio, análise, insight e decisão. Além disso, classifique essa lista por ordem de impacto.
+**RESPOSTA:** Com base nas fontes fornecidas, a integração da IA Generativa (GenAI) no ciclo de Business Intelligence (BI) transforma o processo de uma função retrospectiva em um motor de decisão proativo. Abaixo, os ganhos estão listados e estruturados pelas etapas do ciclo de BI, classificados por ordem de impacto (do estratégico ao operacional):
 
 1. Tomada de Decisão (Impacto Estratégico Máximo): Esta é a etapa de maior valor, onde a IA atua como um "copiloto" para executivos.
 - Inteligência de Decisão Prescritiva: A IA não apenas prevê o que acontecerá, mas recomenda a melhor linha de ação (ex: rebalancear estoque antes de uma ruptura).
