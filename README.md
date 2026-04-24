@@ -218,21 +218,61 @@ Resumo do Impacto: Ao integrar GenAI, o time de BI deixa de ser um "gargalo téc
 Em resumo, um insight só é verdadeiramente "executivo" se ele reduzir a incerteza, acelerar a decisão e demonstrar valor tangível para os objetivos de longo prazo da empresa.
 
 
-## Miniguia de Estudo
+## Miniguia de Estudo – BI + IA para Insights Executivos
+Este miniguia consolida a essência do estudo realizado com o NotebookLM, reunindo resumos estruturados, glossário técnico e prompts reutilizáveis para apoiar revisões futuras e aplicações práticas no contexto de BI corporativo.
 
-Este guia serve como ferramenta prática para aprofundar o conhecimento em BI + IA, utilizando o NotebookLM como base. Organize o estudo em subitens para facilitar a revisão e aplicação.
+1. Resumos EstruturadosA seguir, os principais temas sintetizados de forma objetiva e orientada ao uso em Business Intelligence estratégico com apoio de IA generativa.
+   1.1. Papel da IA Generativa no BI ModernoA IA generativa amplia a capacidade dos times de BI ao acelerar a transformação de dados em narrativas estratégicas. Ela melhora a compreensão de grandes volumes de informação, identifica padrões e produz resumos executivos que facilitam a tomada de decisão.A principal contribuição não está apenas na automação, mas na elevação da qualidade interpretativa: insights mais rápidos, contextualizados e voltados para impacto de negócio.
+   1.2. BI Tradicional x BI Potencializado por IA
+     - BI tradicional: depende fortemente de analistas para contextualizar; análises podem ser lentas; foco em relatórios descritivos.
+     - BI com IA generativa: automatiza a síntese e storytelling; amplia a capacidade analítica e velocidade de resposta; possibilita análises preditivas e prescritivas com maior acessibilidade; gera explicações     orientadas ao contexto executivo.
+   1.3. Aplicações Práticas da IA em BIPrincipais usos identificados:
+     - Resumos executivos automáticos de dashboards, KPIs e relatórios.
+     - Identificação de anomalias e tendências que não aparecem facilmente na análise manual.
+     - Criação de narrativas estratégicas, transformando dados técnicos em linguagem executiva.
+     - Geração de cenários e simulações para suportar decisões.
+     - Automação de análises recorrentes (fechamento mensal, indicadores críticos, alertas inteligentes).
+   Essas aplicações convergem para uma atuação mais eficiente, estratégica e orientada a valor por parte do BI.
+   1.4. Governança e Qualidade em Análises com IA. Apesar do ganho de produtividade, há pontos críticos:
+     - risco de respostas inconsistentes sem curadoria;
+     - necessidade de validar fontes e referências;
+     - importância de alinhar a IA ao contexto de negócio;
+     - papel central do analista em interpretar e validar resultados.
+   A IA não substitui o BI — amplifica sua atuação.
+   1.5. Como IA Facilita o Storytelling com DadosStorytelling é uma competência essencial em BI. A IA ajuda ao:
+     - estruturar narrativas de forma clara (contexto -> problema -> achados -> impacto -> recomendação);
+     - adaptar o nível de detalhe conforme o público (operacional, gerencial, executivo);
+     - traduzir indicadores técnicos em conclusões acionáveis;
+     - sugerir visualizações e argumentos com base em padrões encontrados nos dados.
 
-### Resumos Estruturados
+2. Glossário Técnico – BI + IA
+Termos essenciais aprendidos e utilizados ao longo do estudo:
+**IA Generativa:** Modelos capazes de criar conteúdo original (texto, imagens, código), baseados em treinamento prévio com grandes volumes de dados.
+**LLM (Large Language Model):** Modelo de linguagem treinado para processar e gerar respostas textuais complexas. Base da IA generativa usada no BI.
+*Insight Executivo:** Conclusão objetiva, contextualizada e diretamente conectada a impacto financeiro, risco ou oportunidade organizacional.
+**Storytelling com Dados:** Uso estruturado de narrativas para comunicar insights de maneira clara, persuasiva e orientada à ação.
+**Tomada de Decisão Assistida por IA:** Processo em que a IA fornece explicações, recomendações ou sínteses para suportar decisões estratégicas.
+**Curadoria de Fontes:** Seleção criteriosa de materiais utilizados para alimentar modelos e ferramentas de IA, garantindo qualidade e confiabilidade.
+**Prompt Engineering:** Técnica de construção e otimização de instruções para obter respostas mais úteis, precisas e contextualizadas da IA.
+**Cicatrizes de Prompt:* Aprendizados obtidos ao testar prompts que não funcionaram bem inicialmente, levando ao refinamento progressivo da instrução.
+**Next-Generation BI:** BI impulsionado por IA, automações inteligentes, insight generation, análises prescritivas e storytelling automatizado.
 
-Incluir resumo antes de entregar
-
-### Glossário
-
-Incluir glossário antes de entregar
-
-### Prompts Reutilizáveis
-
-Incluir prompts antes de entregar
+3. Conjunto de Prompts Reutilizáveis: Prompts padronizados para apoiar revisões do tema e acelerar a aplicação prática no dia a dia de BI.
+  3.1. Prompts para Síntese Executiva:
+   - “Gere um resumo executivo dos principais pontos sobre BI + IA com base nas fontes carregadas, destacando impactos estratégicos e riscos.”
+   - “Transforme estas informações técnicas em conclusões acionáveis para diretoria.”
+  3.2. Prompts para Storytelling com Dados:
+   - “Converta esta análise em uma narrativa estruturada: contexto, problema, achados, impacto e recomendação.”
+   - “Explique esses indicadores em linguagem executiva, sem perder precisão técnica.”
+  3.3. Prompts para Comparações Críticas:
+   - “Compare BI tradicional com BI habilitado por IA generativa, classificando vantagens por impacto e complexidade.”
+   - “Liste problemas do BI atual que podem ser mitigados com IA.”
+  3.4. Prompts para Análises Operacionais:
+   - “Identifique oportunidades de automação no ciclo de BI (ETL, análise, insight, narrativa).”
+   - “Gere recomendações para melhorar produtividade analítica utilizando IA.”
+  3.5. Prompts de Refinamento (Cicatrizes):
+   - “Explique por que minha pergunta retornou uma resposta fraca e reescreva-a em versão executiva, técnica e analítica.”
+   - “Aprimore este prompt para que a resposta tenha mais profundidade e contexto de negócio.”
 
 ## Conclusão
 
