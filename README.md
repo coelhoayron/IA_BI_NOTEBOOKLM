@@ -13,7 +13,11 @@ Este projeto explora a integração de Business Intelligence (BI) com Inteligên
 
 ## Curadoria de Fontes
 
-A curadoria de fontes é essencial para alimentar o NotebookLM com conteúdo relevante e confiável.
+A curadoria de fontes é essencial para alimentar o NotebookLM com conteúdo relevante e confiável. Abaixo, estão algumas das principais fontes utilizadas no NotebookLM
+- Using Generative AI for Dynamic Business Insights: https://www.youtube.com/watch?v=n6S7iCzDOr0
+- Free Webinar: Generative AI for Executives: https://www.youtube.com/watch?v=HAmiNZLWDsk
+- How to Make the Most of AI and Business Intelligence: https://constructionmanagement.co.uk/how-to-make-the-most-of-ai-and-business-intelligence/
+- The CEO’s Guide to Generative AI – IBM Institute: https://elements.visualcapitalist.com/wp-content/uploads/2024/02/1706797890393.pdf
 
 ## Engenharia de Prompts e Cicatrizes
 
