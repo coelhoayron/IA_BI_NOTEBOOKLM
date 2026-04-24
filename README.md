@@ -21,7 +21,7 @@ A curadoria de fontes é essencial para alimentar o NotebookLM com conteúdo rel
 
 ## Engenharia de Prompts e Cicatrizes
 
-- Engenharia de prompts: Envolve a criação de instruções estratégicas para guiar a IA em tarefas específicas, resultando em respostas mais precisas e relevantes. No contexto deste projeto, prompts estratégicos são aqueles projetados para extrair insights executivos de fontes curadas, como solicitações para resumir tendências ou identificar oportunidades de negócio.
+### Engenharia de prompts: Envolve a criação de instruções estratégicas para guiar a IA em tarefas específicas, resultando em respostas mais precisas e relevantes. No contexto deste projeto, prompts estratégicos são aqueles projetados para extrair insights executivos de fontes curadas, como solicitações para resumir tendências ou identificar oportunidades de negócio. A seguir, estão listados os principais prompts utilizados
 
 - Cicatrizes: referem-se às lições aprendidas de iterações fracassadas ou ajustes em prompts, onde erros iniciais (como prompts vagos) levam a refinamentos que melhoram a qualidade das saídas.
 
