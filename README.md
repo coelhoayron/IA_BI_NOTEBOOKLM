@@ -23,8 +23,8 @@ A curadoria de fontes é essencial para alimentar o NotebookLM com conteúdo rel
 
 - Engenharia de prompts: Envolve a criação de instruções estratégicas para guiar a IA em tarefas específicas, resultando em respostas mais precisas e relevantes. No contexto deste projeto, prompts estratégicos são aqueles projetados para extrair insights executivos de fontes curadas, como solicitações para resumir tendências ou identificar oportunidades de negócio. A seguir, estão listados os principais prompts utilizados:
   
-**Prompt:** Com base em todas as fontes carregadas, gere um resumo executivo sobre como a IA Generativa pode melhorar o processo de BI em empresas de médio e grande porte? Priorize tendências, riscos e impactos.
-**Resposta:** Este resumo executivo detalha como a Inteligência Artificial Generativa (GenAI) está transformando o Business Intelligence (BI) em organizações de médio e grande porte, evoluindo de sistemas de relatórios retrospectivos para motores de decisão proativos e preditivos.
+**PROMPT:** Com base em todas as fontes carregadas, gere um resumo executivo sobre como a IA Generativa pode melhorar o processo de BI em empresas de médio e grande porte? Priorize tendências, riscos e impactos.
+**RESPOSTA:** Este resumo executivo detalha como a Inteligência Artificial Generativa (GenAI) está transformando o Business Intelligence (BI) em organizações de médio e grande porte, evoluindo de sistemas de relatórios retrospectivos para motores de decisão proativos e preditivos.
 
 1. Tendências Emergentes para 2025-2026
 A convergência entre GenAI e BI, frequentemente chamada de Gen-BI, está consolidando as seguintes tendências:
